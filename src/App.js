@@ -10,6 +10,7 @@ class App extends Component {
     }
   }
   render() {
+    const names = ["Jairo", "Andres", "Orjuela"];
     return (
       <div>
         <h1>Hola Estado</h1>
